@@ -1,2 +1,4 @@
 name: "Heidi Taylor-Caudill"
 markdown: kramdown
+
+theme: jekyll-theme-cayman
